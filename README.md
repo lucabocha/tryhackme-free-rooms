@@ -33,7 +33,7 @@ If you genuinely feel like this project helped you a lot, you can always send yo
 | **[Basic Rooms](#basics-rooms)**                  |     **13**      |           **0**           |
 | **[Reconnaissance](#recon)**                      |     **10**      |           **0**           |
 | **[Scripting](#scripting)**                       |      **7**      |           **0**           |
-| **[Networking](#networking)**                     |      **7**      |           **0**           |
+| **[Networking](#networking)**                     |      **7**      |           **1**           |
 | **[Tooling](#tooling)**                           |     **19**      |           **0**           |
 | **[Crypto & Hashes](#cryptography--hashes)**      |      **7**      |           **0**           |
 | **[Steganography](#steganography)**               |      **6**      |           **0**           |
@@ -54,7 +54,7 @@ If you genuinely feel like this project helped you a lot, you can always send yo
 | **[Misc](#misc)**                                 |     **40**      |           **0**           |
 | **[Special Events](#special-events)**             |     **10**      |           **0**           |
 | **[Container Security](#container-security)**     |      **2**      |           **0**           |
-| **Total Rooms:**                                  |    **= 392**    |           **8**           |
+| **Total Rooms:**                                  |    **= 392**    |           **9**           |
 
 ## Intro Rooms
 
