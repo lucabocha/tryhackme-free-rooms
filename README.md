@@ -54,7 +54,7 @@ If you genuinely feel like this project helped you a lot, you can always send yo
 | **[Misc](#misc)**                                 |     **40**      |           **0**           |
 | **[Special Events](#special-events)**             |     **10**      |           **0**           |
 | **[Container Security](#container-security)**     |      **2**      |           **0**           |
-| **Total Rooms:**                                  |    **= 392**    |           **4**           |
+| **Total Rooms:**                                  |    **= 392**    |           **5**           |
 
 ## Intro Rooms
 
