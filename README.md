@@ -27,7 +27,7 @@ If you genuinely feel like this project helped you a lot, you can always send yo
 
 | Name of Topic                                     | Number of Rooms | Number of Completed Rooms |
 | ------------------------------------------------- | :-------------: | :-----------------------: |
-| **[Introductory Rooms](#intro-rooms)**            |     **19**      |           **9**           |
+| **[Introductory Rooms](#intro-rooms)**            |     **19**      |           **10**           |
 | **[Linux Fundamentals](#linux-fundamentals)**     |      **4**      |           **0**           |
 | **[Windows Fundamentals](#windows-fundamentals)** |      **3**      |           **0**           |
 | **[Basic Rooms](#basics-rooms)**                  |     **13**      |           **0**           |
@@ -54,7 +54,7 @@ If you genuinely feel like this project helped you a lot, you can always send yo
 | **[Misc](#misc)**                                 |     **40**      |           **0**           |
 | **[Special Events](#special-events)**             |     **10**      |           **0**           |
 | **[Container Security](#container-security)**     |      **2**      |           **0**           |
-| **Total Rooms:**                                  |    **= 392**    |           **10**           |
+| **Total Rooms:**                                  |    **= 392**    |           **11**           |
 
 ## Intro Rooms
 
